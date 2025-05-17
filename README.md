@@ -8,7 +8,7 @@ This project provides comprehensive revenue insights for AtliQ Grands, a luxury 
 AtliQ Grands has been losing market share and revenue to competitors in the luxury/business hotels category despite 20 years in the hospitality industry. This project aims to incorporate Business Intelligence to provide actionable insights from historical data to help the company regain its competitive position.
 
 ## Dashboard Preview
-![AtliQ Grands Revenue Dashboard](https://github.com/yourusername/atliq-grands-revenue-insights/raw/main/dashboard_preview.png)
+![AtliQ Grands Revenue Dashboard](dashboard_preview.png)
 
 ## Features
 - **Interactive Dashboard**: Filter by city, room class, and time periods
